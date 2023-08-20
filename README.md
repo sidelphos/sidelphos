@@ -1,4 +1,4 @@
-## Oiii eu sou a Sidney Brito, desenvolvedor full stack, estudante e apaixonado por tecnologia!
+## Oiii eu sou o Sidney Brito, desenvolvedor full stack, estudante e apaixonado por tecnologia!
 
 - 🔭   Hoje trabalho com front e beck end
 - 🌱 Estudando front e beck end
